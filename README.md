@@ -1,6 +1,12 @@
 PHP TOTP
 =========================
 
+Important notice
+-------
+For PHP 8.0 or above please use ^2.0.
+For PHP below 8.0, use ^1.0.
+
+
 This library is an implementation of totp (rfc6238) in php (currently only sha1)
 
 Features
